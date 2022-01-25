@@ -1,0 +1,19 @@
+.card {
+  width: calc(50% - 50px);
+  margin: 25px;
+}
+
+.card__header {
+  height: 30px;
+  width: 100%;
+  top: 0;
+}
+
+.card__body {
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
